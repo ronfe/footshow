@@ -1,0 +1,306 @@
+1860 München,VfR Aalen,1,1
+1860 München,VfL Bochum,2,1
+1860 München,Eintracht Braunschweig,1,2
+1860 München,Darmstadt 98,1,1
+1860 München,Erzgebirge Aue,0,1
+1860 München,Fortuna Düsseldorf,0,1
+1860 München,FSV Frankfurt,0,2
+1860 München,SpVgg Greuther Fürth,2,0
+1860 München,1. FC Heidenheim,1,2
+1860 München,Ingolstadt 04,1,1
+1860 München,1. FC Kaiserslautern,1,1
+1860 München,Karlsruher SC,2,3
+1860 München,1. FC Nürnberg,2,1
+1860 München,RB Leipzig,0,3
+1860 München,SV Sandhausen,2,3
+1860 München,FC St. Pauli,2,1
+1860 München,FC Union Berlin,0,3
+VfR Aalen,1860 München,2,0
+VfR Aalen,VfL Bochum,2,4
+VfR Aalen,Eintracht Braunschweig,2,1
+VfR Aalen,Darmstadt 98,0,0
+VfR Aalen,Erzgebirge Aue,3,0
+VfR Aalen,Fortuna Düsseldorf,2,0
+VfR Aalen,FSV Frankfurt,0,1
+VfR Aalen,SpVgg Greuther Fürth,1,1
+VfR Aalen,1. FC Heidenheim,2,4
+VfR Aalen,Ingolstadt 04,1,1
+VfR Aalen,1. FC Kaiserslautern,2,2
+VfR Aalen,Karlsruher SC,2,2
+VfR Aalen,1. FC Nürnberg,1,2
+VfR Aalen,RB Leipzig,0,0
+VfR Aalen,SV Sandhausen,0,1
+VfR Aalen,FC St. Pauli,2,0
+VfR Aalen,FC Union Berlin,1,2
+VfL Bochum,1860 München,0,3
+VfL Bochum,VfR Aalen,4,0
+VfL Bochum,Eintracht Braunschweig,3,2
+VfL Bochum,Darmstadt 98,1,1
+VfL Bochum,Erzgebirge Aue,1,1
+VfL Bochum,Fortuna Düsseldorf,1,1
+VfL Bochum,FSV Frankfurt,3,3
+VfL Bochum,SpVgg Greuther Fürth,1,1
+VfL Bochum,1. FC Heidenheim,4,1
+VfL Bochum,Ingolstadt 04,3,1
+VfL Bochum,1. FC Kaiserslautern,0,2
+VfL Bochum,Karlsruher SC,1,1
+VfL Bochum,1. FC Nürnberg,1,1
+VfL Bochum,RB Leipzig,1,2
+VfL Bochum,SV Sandhausen,0,0
+VfL Bochum,FC St. Pauli,3,3
+VfL Bochum,FC Union Berlin,1,1
+Eintracht Braunschweig,1860 München,2,0
+Eintracht Braunschweig,VfR Aalen,2,1
+Eintracht Braunschweig,VfL Bochum,1,2
+Eintracht Braunschweig,Darmstadt 98,2,0
+Eintracht Braunschweig,Erzgebirge Aue,4,2
+Eintracht Braunschweig,Fortuna Düsseldorf,2,1
+Eintracht Braunschweig,FSV Frankfurt,2,0
+Eintracht Braunschweig,SpVgg Greuther Fürth,2,2
+Eintracht Braunschweig,1. FC Heidenheim,3,0
+Eintracht Braunschweig,Ingolstadt 04,0,0
+Eintracht Braunschweig,1. FC Kaiserslautern,0,2
+Eintracht Braunschweig,Karlsruher SC,0,2
+Eintracht Braunschweig,1. FC Nürnberg,1,0
+Eintracht Braunschweig,RB Leipzig,1,1
+Eintracht Braunschweig,SV Sandhausen,2,1
+Eintracht Braunschweig,FC St. Pauli,0,2
+Eintracht Braunschweig,FC Union Berlin,1,1
+Darmstadt 98,1860 München,1,1
+Darmstadt 98,VfR Aalen,2,0
+Darmstadt 98,VfL Bochum,2,0
+Darmstadt 98,Eintracht Braunschweig,1,0
+Darmstadt 98,Erzgebirge Aue,2,0
+Darmstadt 98,Fortuna Düsseldorf,1,4
+Darmstadt 98,FSV Frankfurt,4,0
+Darmstadt 98,SpVgg Greuther Fürth,0,0
+Darmstadt 98,1. FC Heidenheim,1,1
+Darmstadt 98,Ingolstadt 04,2,2
+Darmstadt 98,1. FC Kaiserslautern,3,2
+Darmstadt 98,Karlsruher SC,0,0
+Darmstadt 98,1. FC Nürnberg,3,0
+Darmstadt 98,RB Leipzig,1,0
+Darmstadt 98,SV Sandhausen,1,0
+Darmstadt 98,FC St. Pauli,1,0
+Darmstadt 98,FC Union Berlin,5,0
+Erzgebirge Aue,1860 München,4,1
+Erzgebirge Aue,VfR Aalen,1,0
+Erzgebirge Aue,VfL Bochum,1,5
+Erzgebirge Aue,Eintracht Braunschweig,1,2
+Erzgebirge Aue,Darmstadt 98,0,1
+Erzgebirge Aue,Fortuna Düsseldorf,0,3
+Erzgebirge Aue,FSV Frankfurt,1,0
+Erzgebirge Aue,SpVgg Greuther Fürth,0,0
+Erzgebirge Aue,1. FC Heidenheim,1,1
+Erzgebirge Aue,Ingolstadt 04,0,3
+Erzgebirge Aue,1. FC Kaiserslautern,0,0
+Erzgebirge Aue,Karlsruher SC,3,1
+Erzgebirge Aue,1. FC Nürnberg,0,1
+Erzgebirge Aue,RB Leipzig,2,0
+Erzgebirge Aue,SV Sandhausen,0,1
+Erzgebirge Aue,FC St. Pauli,3,0
+Erzgebirge Aue,FC Union Berlin,1,2
+Fortuna Düsseldorf,1860 München,1,1
+Fortuna Düsseldorf,VfR Aalen,0,2
+Fortuna Düsseldorf,VfL Bochum,2,2
+Fortuna Düsseldorf,Eintracht Braunschweig,2,2
+Fortuna Düsseldorf,Darmstadt 98,2,0
+Fortuna Düsseldorf,Erzgebirge Aue,2,3
+Fortuna Düsseldorf,FSV Frankfurt,2,3
+Fortuna Düsseldorf,SpVgg Greuther Fürth,3,3
+Fortuna Düsseldorf,1. FC Heidenheim,3,2
+Fortuna Düsseldorf,Ingolstadt 04,0,0
+Fortuna Düsseldorf,1. FC Kaiserslautern,1,1
+Fortuna Düsseldorf,Karlsruher SC,0,2
+Fortuna Düsseldorf,1. FC Nürnberg,1,3
+Fortuna Düsseldorf,RB Leipzig,2,2
+Fortuna Düsseldorf,SV Sandhausen,1,3
+Fortuna Düsseldorf,FC St. Pauli,1,0
+Fortuna Düsseldorf,FC Union Berlin,1,0
+FSV Frankfurt,1860 München,0,1
+FSV Frankfurt,VfR Aalen,1,1
+FSV Frankfurt,VfL Bochum,1,5
+FSV Frankfurt,Eintracht Braunschweig,0,3
+FSV Frankfurt,Darmstadt 98,1,1
+FSV Frankfurt,Erzgebirge Aue,1,1
+FSV Frankfurt,Fortuna Düsseldorf,0,2
+FSV Frankfurt,SpVgg Greuther Fürth,1,1
+FSV Frankfurt,1. FC Heidenheim,2,0
+FSV Frankfurt,Ingolstadt 04,0,1
+FSV Frankfurt,1. FC Kaiserslautern,2,0
+FSV Frankfurt,Karlsruher SC,2,3
+FSV Frankfurt,1. FC Nürnberg,2,1
+FSV Frankfurt,RB Leipzig,0,0
+FSV Frankfurt,SV Sandhausen,1,1
+FSV Frankfurt,FC St. Pauli,3,3
+FSV Frankfurt,FC Union Berlin,1,3
+SpVgg Greuther Fürth,1860 München,0,3
+SpVgg Greuther Fürth,VfR Aalen,1,1
+SpVgg Greuther Fürth,VfL Bochum,0,0
+SpVgg Greuther Fürth,Eintracht Braunschweig,1,2
+SpVgg Greuther Fürth,Darmstadt 98,1,0
+SpVgg Greuther Fürth,Erzgebirge Aue,2,0
+SpVgg Greuther Fürth,Fortuna Düsseldorf,3,0
+SpVgg Greuther Fürth,FSV Frankfurt,2,5
+SpVgg Greuther Fürth,1. FC Heidenheim,0,0
+SpVgg Greuther Fürth,Ingolstadt 04,0,1
+SpVgg Greuther Fürth,1. FC Kaiserslautern,2,1
+SpVgg Greuther Fürth,Karlsruher SC,0,3
+SpVgg Greuther Fürth,1. FC Nürnberg,5,1
+SpVgg Greuther Fürth,RB Leipzig,0,1
+SpVgg Greuther Fürth,SV Sandhausen,0,0
+SpVgg Greuther Fürth,FC St. Pauli,3,0
+SpVgg Greuther Fürth,FC Union Berlin,2,2
+1. FC Heidenheim,1860 München,2,2
+1. FC Heidenheim,VfR Aalen,0,1
+1. FC Heidenheim,VfL Bochum,5,0
+1. FC Heidenheim,Eintracht Braunschweig,0,1
+1. FC Heidenheim,Darmstadt 98,1,1
+1. FC Heidenheim,Erzgebirge Aue,2,2
+1. FC Heidenheim,Fortuna Düsseldorf,1,2
+1. FC Heidenheim,FSV Frankfurt,2,1
+1. FC Heidenheim,SpVgg Greuther Fürth,3,0
+1. FC Heidenheim,Ingolstadt 04,0,1
+1. FC Heidenheim,1. FC Kaiserslautern,1,1
+1. FC Heidenheim,Karlsruher SC,0,1
+1. FC Heidenheim,1. FC Nürnberg,3,0
+1. FC Heidenheim,RB Leipzig,1,0
+1. FC Heidenheim,SV Sandhausen,3,0
+1. FC Heidenheim,FC St. Pauli,2,1
+1. FC Heidenheim,FC Union Berlin,3,1
+Ingolstadt 04,1860 München,1,1
+Ingolstadt 04,VfR Aalen,4,1
+Ingolstadt 04,VfL Bochum,3,0
+Ingolstadt 04,Eintracht Braunschweig,1,0
+Ingolstadt 04,Darmstadt 98,2,2
+Ingolstadt 04,Erzgebirge Aue,1,1
+Ingolstadt 04,Fortuna Düsseldorf,3,2
+Ingolstadt 04,FSV Frankfurt,2,0
+Ingolstadt 04,SpVgg Greuther Fürth,2,0
+Ingolstadt 04,1. FC Heidenheim,1,0
+Ingolstadt 04,1. FC Kaiserslautern,2,0
+Ingolstadt 04,Karlsruher SC,1,3
+Ingolstadt 04,1. FC Nürnberg,1,1
+Ingolstadt 04,RB Leipzig,2,1
+Ingolstadt 04,SV Sandhausen,1,3
+Ingolstadt 04,FC St. Pauli,2,1
+Ingolstadt 04,FC Union Berlin,3,3
+1. FC Kaiserslautern,1860 München,3,2
+1. FC Kaiserslautern,VfR Aalen,1,0
+1. FC Kaiserslautern,VfL Bochum,2,2
+1. FC Kaiserslautern,Eintracht Braunschweig,2,1
+1. FC Kaiserslautern,Darmstadt 98,0,0
+1. FC Kaiserslautern,Erzgebirge Aue,3,0
+1. FC Kaiserslautern,Fortuna Düsseldorf,1,1
+1. FC Kaiserslautern,FSV Frankfurt,1,0
+1. FC Kaiserslautern,SpVgg Greuther Fürth,2,1
+1. FC Kaiserslautern,1. FC Heidenheim,4,0
+1. FC Kaiserslautern,Ingolstadt 04,1,1
+1. FC Kaiserslautern,Karlsruher SC,2,0
+1. FC Kaiserslautern,1. FC Nürnberg,2,1
+1. FC Kaiserslautern,RB Leipzig,1,1
+1. FC Kaiserslautern,SV Sandhausen,1,0
+1. FC Kaiserslautern,FC St. Pauli,0,2
+1. FC Kaiserslautern,FC Union Berlin,1,0
+Karlsruher SC,1860 München,2,0
+Karlsruher SC,VfR Aalen,0,0
+Karlsruher SC,VfL Bochum,0,0
+Karlsruher SC,Eintracht Braunschweig,1,0
+Karlsruher SC,Darmstadt 98,0,1
+Karlsruher SC,Erzgebirge Aue,1,0
+Karlsruher SC,Fortuna Düsseldorf,1,1
+Karlsruher SC,FSV Frankfurt,4,1
+Karlsruher SC,SpVgg Greuther Fürth,2,1
+Karlsruher SC,1. FC Heidenheim,1,1
+Karlsruher SC,Ingolstadt 04,0,1
+Karlsruher SC,1. FC Kaiserslautern,0,0
+Karlsruher SC,1. FC Nürnberg,3,0
+Karlsruher SC,RB Leipzig,0,0
+Karlsruher SC,SV Sandhausen,1,1
+Karlsruher SC,FC St. Pauli,3,0
+Karlsruher SC,FC Union Berlin,0,0
+1. FC Nürnberg,1860 München,2,1
+1. FC Nürnberg,VfR Aalen,2,1
+1. FC Nürnberg,VfL Bochum,1,2
+1. FC Nürnberg,Eintracht Braunschweig,3,1
+1. FC Nürnberg,Darmstadt 98,1,1
+1. FC Nürnberg,Erzgebirge Aue,1,0
+1. FC Nürnberg,Fortuna Düsseldorf,0,2
+1. FC Nürnberg,FSV Frankfurt,0,1
+1. FC Nürnberg,SpVgg Greuther Fürth,0,0
+1. FC Nürnberg,1. FC Heidenheim,0,1
+1. FC Nürnberg,Ingolstadt 04,2,1
+1. FC Nürnberg,1. FC Kaiserslautern,3,2
+1. FC Nürnberg,Karlsruher SC,1,1
+1. FC Nürnberg,RB Leipzig,1,0
+1. FC Nürnberg,SV Sandhausen,2,0
+1. FC Nürnberg,FC St. Pauli,2,2
+1. FC Nürnberg,FC Union Berlin,3,1
+RB Leipzig,1860 München,1,1
+RB Leipzig,VfR Aalen,0,0
+RB Leipzig,VfL Bochum,2,0
+RB Leipzig,Eintracht Braunschweig,3,1
+RB Leipzig,Darmstadt 98,2,1
+RB Leipzig,Erzgebirge Aue,1,0
+RB Leipzig,Fortuna Düsseldorf,3,1
+RB Leipzig,FSV Frankfurt,0,1
+RB Leipzig,SpVgg Greuther Fürth,2,0
+RB Leipzig,1. FC Heidenheim,1,1
+RB Leipzig,Ingolstadt 04,0,1
+RB Leipzig,1. FC Kaiserslautern,0,0
+RB Leipzig,Karlsruher SC,3,1
+RB Leipzig,1. FC Nürnberg,2,1
+RB Leipzig,SV Sandhausen,0,4
+RB Leipzig,FC St. Pauli,4,1
+RB Leipzig,FC Union Berlin,3,2
+SV Sandhausen,1860 München,1,0
+SV Sandhausen,VfR Aalen,2,0
+SV Sandhausen,VfL Bochum,0,0
+SV Sandhausen,Eintracht Braunschweig,0,1
+SV Sandhausen,Darmstadt 98,1,2
+SV Sandhausen,Erzgebirge Aue,1,1
+SV Sandhausen,Fortuna Düsseldorf,0,2
+SV Sandhausen,FSV Frankfurt,0,3
+SV Sandhausen,SpVgg Greuther Fürth,1,0
+SV Sandhausen,1. FC Heidenheim,2,2
+SV Sandhausen,Ingolstadt 04,0,3
+SV Sandhausen,1. FC Kaiserslautern,1,1
+SV Sandhausen,Karlsruher SC,0,0
+SV Sandhausen,1. FC Nürnberg,2,1
+SV Sandhausen,RB Leipzig,0,0
+SV Sandhausen,FC St. Pauli,0,0
+SV Sandhausen,FC Union Berlin,1,1
+FC St. Pauli,1860 München,1,2
+FC St. Pauli,VfR Aalen,3,1
+FC St. Pauli,VfL Bochum,5,1
+FC St. Pauli,Eintracht Braunschweig,1,0
+FC St. Pauli,Darmstadt 98,0,1
+FC St. Pauli,Erzgebirge Aue,0,0
+FC St. Pauli,Fortuna Düsseldorf,4,0
+FC St. Pauli,FSV Frankfurt,1,1
+FC St. Pauli,SpVgg Greuther Fürth,0,1
+FC St. Pauli,1. FC Heidenheim,0,3
+FC St. Pauli,Ingolstadt 04,1,1
+FC St. Pauli,1. FC Kaiserslautern,1,3
+FC St. Pauli,Karlsruher SC,0,4
+FC St. Pauli,1. FC Nürnberg,1,0
+FC St. Pauli,RB Leipzig,1,0
+FC St. Pauli,SV Sandhausen,2,1
+FC St. Pauli,FC Union Berlin,3,0
+1. FC Union Berlin,1860 München,1,4
+1. FC Union Berlin,VfR Aalen,1,1
+1. FC Union Berlin,VfL Bochum,2,1
+1. FC Union Berlin,Eintracht Braunschweig,2,0
+1. FC Union Berlin,Darmstadt 98,1,1
+1. FC Union Berlin,Erzgebirge Aue,1,2
+1. FC Union Berlin,Fortuna Düsseldorf,1,1
+1. FC Union Berlin,FSV Frankfurt,2,1
+1. FC Union Berlin,SpVgg Greuther Fürth,0,1
+1. FC Union Berlin,1. FC Heidenheim,3,1
+1. FC Union Berlin,Ingolstadt 04,2,2
+1. FC Union Berlin,1. FC Kaiserslautern,0,0
+1. FC Union Berlin,Karlsruher SC,2,0
+1. FC Union Berlin,1. FC Nürnberg,0,4
+1. FC Union Berlin,RB Leipzig,2,1
+1. FC Union Berlin,SV Sandhausen,3,1
+1. FC Union Berlin,FC St. Pauli,1,0
