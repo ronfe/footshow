@@ -6,7 +6,6 @@ Crystal Palace,-0.29928873,-0.49665881
 Everton,-0.35635076,-0.56123996
 Leicester City,-0.2832162,-0.58603677
 Liverpool,-0.29927575,-0.40350546
-Manchester City,0.15891411,-0.24101674
 Manchester United,-0.13671293,-0.19047162
 Newcastle United,-0.4526615,-0.71285053
 Norwich City,-0.72,-0.70811426
@@ -16,7 +15,7 @@ Sunderland,-0.70679655,-0.55856261
 Swansea City,-0.31947707,-0.45546108
 Tottenham Hotspur,-0.18492187,-0.54542997
 Watford,-0.62209843,-0.6164775
-West Bromwich Albion,-0.61049806,-0.48694247
 West Ham United,-0.3750498,-0.3930704
-
-home= 0.2996583
+$home=0.2996583
+West Bromwich Albion,-0.61049806,-0.530791469493
+Manchester City,0.202763109493,-0.24101674
