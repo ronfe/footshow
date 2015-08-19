@@ -144,8 +144,8 @@ def initMatchDay():
 
         # STEP 3: update data and record
         changes = match(prob, homeScore, awayScore, factor)
-        homeChange = home + ','.join(changes[0])
-        awayChange = away + ','.join(changes[1])
+        homeChange = home + ',' + ','.join(changes[0])
+        awayChange = away + ',' + ','.join(changes[1])
 
         teamList = open(fileName).readlines()
         newTeamList = []
