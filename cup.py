@@ -29,7 +29,7 @@ def updateLeague(league, team, updateA):
     # record
     g = open('teams/1516' + league + '.csv', 'w')
     for each in leagueDict:
-        tempString = each + ',' + str(leagueDict[each][0]) + str(leagueDict[each][1]) + '\n'
+        tempString = each + ',' + str(leagueDict[each][0]) + ',' + str(leagueDict[each][1]) + '\n'
         g.write(tempString)
 
     g.write(home + '\n')
