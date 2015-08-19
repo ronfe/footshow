@@ -158,7 +158,7 @@ def initMatchDay():
 
         g = open(fileName, 'w')
         for eachTwo in newTeamList:
-            g.write(eachTwo + '\n')
+            g.write(eachTwo)
 
         g.close()
 
