@@ -14,8 +14,8 @@ def updateLeague(league, team, updateA):
             leagueDict[tempTeam] = [attack, defence]
     # calc the rate
     matchTeam = leagueDict[team]
-    attackRate = updateA[0] / matchTeam[0]
-    defendRate = updateA[1] / matchTeam[1]
+    attackRate = string.atof(updateA[0]) / matchTeam[0]
+    defendRate = string.atof(updateA[1]) / matchTeam[1]
 
     # update the league
     for each in leagueDict:
