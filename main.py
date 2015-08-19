@@ -159,4 +159,6 @@ def initMatchDay():
 
         g.close()
 
+    print 'done'
 
+initMatchDay()
