@@ -1,0 +1,106 @@
+{
+  "league": "fra1",
+  "teams": [
+    {
+      "name": "Angers",
+      "attack": -0.06,
+      "defence": -0.08
+    },
+    {
+      "name": "Bastia",
+      "attack": 0.0,
+      "defence": 0.20932780
+    },
+    {
+      "name": "Bordeaux",
+      "attack": 0.23756710,
+      "defence": 0.24282459
+    },
+    {
+      "name": "Caen",
+      "attack": 0.38920127,
+      "defence": 0.01111518
+    },
+    {
+      "name": "Gazelec Ajaccio",
+      "attack": -0.06,
+      "defence": -0.08
+    },
+    {
+      "name": "Guingamp",
+      "attack": 0.11288379,
+      "defence": 0.02576889
+    },
+    {
+      "name": "Lille",
+      "attack": 0.14523769,
+      "defence": 0.29388307
+    },
+    {
+      "name": "Lorient",
+      "attack": 0.17811418,
+      "defence": 0.11799347
+    },
+    {
+      "name": "Lyon",
+      "attack": 0.65296413,
+      "defence": 0.50331428
+    },
+    {
+      "name": "Marseille",
+      "attack": 0.71747947,
+      "defence": 0.25673333
+    },
+    {
+      "name": "Monaco",
+      "attack": 0.29958583,
+      "defence": 0.76557914
+    },
+    {
+      "name": "Montpellier",
+      "attack": 0.21047471,
+      "defence": 0.36484396
+    },
+    {
+      "name": "Nantes",
+      "attack": -0.25057841,
+      "defence": 0.35805492
+    },
+    {
+      "name": "Nice",
+      "attack": 0.18146617,
+      "defence": 0.05956023
+    },
+    {
+      "name": "Paris Saint-Germain",
+      "attack": 0.79904903,
+      "defence": 0.40442267
+    },
+    {
+      "name": "Reims",
+      "attack": 0.26235100,
+      "defence": -0.16394855
+    },
+    {
+      "name": "Rennes",
+      "attack": -0.06006109,
+      "defence": 0.30266518
+    },
+    {
+      "name": "Saint-Étienne",
+      "attack": 0.30396500,
+      "defence": 0.62223421
+    },
+    {
+      "name": "Toulouse",
+      "attack": 0.17079261,
+      "defence": -0.12850968
+    },
+    {
+      "name": "Troyes",
+      "attack": -0.06,
+      "defence": -0.08
+    }
+  ],
+  "homeFactor": 0.2655409
+}
