@@ -127,10 +127,13 @@ def initMatchDay():
         awayDef = string.atof(awayDef)
 
         # fetch homefactor
-        homeFactor = string.atof(teams.split('\n')[-1].split('=')[1])
+        a = teams[teams.index('$home'):].split('\n')
+        # homeFactor = string.atof(teams.split('\n')[-1].split('=')[1])
+        homeFactor = string.atof(teams[teams.index('$home'):].split('\n')[0].split('=')[1])
 
         # STEP 1: record match information
         matchRecord = home + ',' + away + ',' + str(homeScore) + ',' + str(awayScore) + '\n'
+        print matchRecord
         g = open('./1516results/' + league + '.csv', 'a')
         g.write(matchRecord)
         g.close()
