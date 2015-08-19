@@ -1,0 +1,306 @@
+Académica,Arouca,1,1
+Académica,Belenenses,1,1
+Académica,Benfica,0,2
+Académica,Boavista,0,0
+Académica,Braga,1,1
+Académica,Estoril,2,2
+Académica,Gil Vicente,1,2
+Académica,Marítimo,1,1
+Académica,Moreirense,0,0
+Académica,Nacional,2,1
+Académica,Paços de Ferreira,2,2
+Académica,Penafiel,1,1
+Académica,Porto,0,3
+Académica,Rio Ave,0,0
+Académica,Sporting CP,1,1
+Académica,Vitória de Guimarães,2,4
+Académica,Vitória de Setúbal,1,1
+Arouca,Académica,0,1
+Arouca,Belenenses,0,1
+Arouca,Benfica,1,3
+Arouca,Boavista,0,0
+Arouca,Braga,1,0
+Arouca,Estoril,1,1
+Arouca,Gil Vicente,3,1
+Arouca,Marítimo,1,0
+Arouca,Moreirense,1,2
+Arouca,Nacional,3,3
+Arouca,Paços de Ferreira,1,3
+Arouca,Penafiel,0,1
+Arouca,Porto,0,5
+Arouca,Rio Ave,1,0
+Arouca,Sporting CP,1,3
+Arouca,Vitória de Guimarães,1,2
+Arouca,Vitória de Setúbal,1,0
+Belenenses,Académica,0,0
+Belenenses,Arouca,0,0
+Belenenses,Benfica,0,2
+Belenenses,Boavista,3,1
+Belenenses,Braga,0,1
+Belenenses,Estoril,2,2
+Belenenses,Gil Vicente,2,0
+Belenenses,Marítimo,1,0
+Belenenses,Moreirense,2,0
+Belenenses,Nacional,3,1
+Belenenses,Paços de Ferreira,0,1
+Belenenses,Penafiel,0,0
+Belenenses,Porto,1,1
+Belenenses,Rio Ave,1,3
+Belenenses,Sporting CP,1,1
+Belenenses,Vitória de Guimarães,0,3
+Belenenses,Vitória de Setúbal,1,1
+Benfica,Académica,5,1
+Benfica,Arouca,4,0
+Benfica,Belenenses,3,0
+Benfica,Boavista,3,0
+Benfica,Braga,2,0
+Benfica,Estoril,6,0
+Benfica,Gil Vicente,1,0
+Benfica,Marítimo,4,1
+Benfica,Moreirense,3,1
+Benfica,Nacional,3,1
+Benfica,Paços de Ferreira,2,0
+Benfica,Penafiel,4,0
+Benfica,Porto,0,0
+Benfica,Rio Ave,1,0
+Benfica,Sporting CP,1,1
+Benfica,Vitória de Guimarães,3,0
+Benfica,Vitória de Setúbal,3,0
+Boavista,Académica,1,0
+Boavista,Arouca,3,1
+Boavista,Belenenses,1,0
+Boavista,Benfica,0,1
+Boavista,Braga,1,0
+Boavista,Estoril,1,2
+Boavista,Gil Vicente,3,2
+Boavista,Marítimo,0,2
+Boavista,Moreirense,3,1
+Boavista,Nacional,0,1
+Boavista,Paços de Ferreira,1,2
+Boavista,Penafiel,1,0
+Boavista,Porto,0,2
+Boavista,Rio Ave,1,1
+Boavista,Sporting CP,1,3
+Boavista,Vitória de Guimarães,3,1
+Boavista,Vitória de Setúbal,0,0
+Braga,Académica,0,0
+Braga,Arouca,2,0
+Braga,Belenenses,1,1
+Braga,Benfica,2,1
+Braga,Boavista,3,0
+Braga,Estoril,2,1
+Braga,Gil Vicente,2,0
+Braga,Marítimo,1,3
+Braga,Moreirense,1,0
+Braga,Nacional,3,1
+Braga,Paços de Ferreira,3,0
+Braga,Penafiel,4,0
+Braga,Porto,0,1
+Braga,Rio Ave,3,0
+Braga,Sporting CP,0,1
+Braga,Vitória de Guimarães,0,0
+Braga,Vitória de Setúbal,5,0
+Estoril,Académica,1,2
+Estoril,Arouca,1,0
+Estoril,Belenenses,1,2
+Estoril,Benfica,2,3
+Estoril,Boavista,2,0
+Estoril,Braga,0,2
+Estoril,Gil Vicente,1,1
+Estoril,Marítimo,1,1
+Estoril,Moreirense,1,1
+Estoril,Nacional,2,1
+Estoril,Paços de Ferreira,1,0
+Estoril,Penafiel,3,3
+Estoril,Porto,2,2
+Estoril,Rio Ave,1,5
+Estoril,Sporting CP,1,1
+Estoril,Vitória de Guimarães,1,0
+Estoril,Vitória de Setúbal,1,0
+Gil Vicente,Académica,1,1
+Gil Vicente,Arouca,1,1
+Gil Vicente,Belenenses,0,2
+Gil Vicente,Benfica,0,5
+Gil Vicente,Boavista,1,1
+Gil Vicente,Braga,0,2
+Gil Vicente,Estoril,1,1
+Gil Vicente,Marítimo,1,2
+Gil Vicente,Moreirense,0,1
+Gil Vicente,Nacional,0,0
+Gil Vicente,Paços de Ferreira,1,0
+Gil Vicente,Penafiel,2,1
+Gil Vicente,Porto,1,5
+Gil Vicente,Rio Ave,0,0
+Gil Vicente,Sporting CP,0,4
+Gil Vicente,Vitória de Guimarães,1,3
+Gil Vicente,Vitória de Setúbal,1,1
+Marítimo,Académica,2,1
+Marítimo,Arouca,1,1
+Marítimo,Belenenses,1,2
+Marítimo,Benfica,0,4
+Marítimo,Boavista,4,0
+Marítimo,Braga,2,1
+Marítimo,Estoril,0,0
+Marítimo,Gil Vicente,1,2
+Marítimo,Moreirense,1,2
+Marítimo,Nacional,1,1
+Marítimo,Paços de Ferreira,2,1
+Marítimo,Penafiel,2,0
+Marítimo,Porto,1,0
+Marítimo,Rio Ave,4,0
+Marítimo,Sporting CP,0,1
+Marítimo,Vitória de Guimarães,4,0
+Marítimo,Vitória de Setúbal,1,1
+Moreirense,Académica,0,2
+Moreirense,Arouca,1,0
+Moreirense,Belenenses,0,1
+Moreirense,Benfica,1,3
+Moreirense,Boavista,1,0
+Moreirense,Braga,0,0
+Moreirense,Estoril,1,1
+Moreirense,Gil Vicente,2,0
+Moreirense,Marítimo,1,1
+Moreirense,Nacional,2,3
+Moreirense,Paços de Ferreira,2,0
+Moreirense,Penafiel,0,0
+Moreirense,Porto,0,2
+Moreirense,Rio Ave,1,1
+Moreirense,Sporting CP,1,4
+Moreirense,Vitória de Guimarães,2,1
+Moreirense,Vitória de Setúbal,3,1
+Nacional,Académica,1,0
+Nacional,Arouca,2,0
+Nacional,Belenenses,2,1
+Nacional,Benfica,1,2
+Nacional,Boavista,2,1
+Nacional,Braga,1,1
+Nacional,Estoril,1,0
+Nacional,Gil Vicente,3,2
+Nacional,Marítimo,3,0
+Nacional,Moreirense,0,1
+Nacional,Paços de Ferreira,3,0
+Nacional,Penafiel,2,0
+Nacional,Porto,1,1
+Nacional,Rio Ave,0,0
+Nacional,Sporting CP,0,1
+Nacional,Vitória de Guimarães,2,2
+Nacional,Vitória de Setúbal,3,0
+Paços de Ferreira,Académica,3,2
+Paços de Ferreira,Arouca,2,1
+Paços de Ferreira,Belenenses,2,0
+Paços de Ferreira,Benfica,1,0
+Paços de Ferreira,Boavista,1,0
+Paços de Ferreira,Braga,2,2
+Paços de Ferreira,Estoril,1,1
+Paços de Ferreira,Gil Vicente,1,1
+Paços de Ferreira,Marítimo,3,2
+Paços de Ferreira,Moreirense,0,0
+Paços de Ferreira,Nacional,2,3
+Paços de Ferreira,Penafiel,2,1
+Paços de Ferreira,Porto,0,1
+Paços de Ferreira,Rio Ave,1,2
+Paços de Ferreira,Sporting CP,1,1
+Paços de Ferreira,Vitória de Guimarães,2,2
+Paços de Ferreira,Vitória de Setúbal,4,1
+Penafiel,Académica,0,0
+Penafiel,Arouca,0,2
+Penafiel,Belenenses,1,3
+Penafiel,Benfica,0,3
+Penafiel,Boavista,2,2
+Penafiel,Braga,1,6
+Penafiel,Estoril,1,2
+Penafiel,Gil Vicente,2,1
+Penafiel,Marítimo,3,4
+Penafiel,Moreirense,1,2
+Penafiel,Nacional,2,1
+Penafiel,Paços de Ferreira,0,1
+Penafiel,Porto,1,3
+Penafiel,Rio Ave,0,2
+Penafiel,Sporting CP,0,4
+Penafiel,Vitória de Guimarães,1,1
+Penafiel,Vitória de Setúbal,2,0
+Porto,Académica,1,0
+Porto,Arouca,1,0
+Porto,Belenenses,3,0
+Porto,Benfica,0,2
+Porto,Boavista,0,0
+Porto,Braga,2,1
+Porto,Estoril,5,0
+Porto,Gil Vicente,2,0
+Porto,Marítimo,2,0
+Porto,Moreirense,3,0
+Porto,Nacional,2,0
+Porto,Paços de Ferreira,5,0
+Porto,Penafiel,2,0
+Porto,Rio Ave,5,0
+Porto,Sporting CP,3,0
+Porto,Vitória de Guimarães,1,0
+Porto,Vitória de Setúbal,4,0
+Rio Ave,Académica,3,0
+Rio Ave,Arouca,1,2
+Rio Ave,Belenenses,0,0
+Rio Ave,Benfica,2,1
+Rio Ave,Boavista,4,0
+Rio Ave,Braga,0,2
+Rio Ave,Estoril,2,1
+Rio Ave,Gil Vicente,0,0
+Rio Ave,Marítimo,0,0
+Rio Ave,Moreirense,1,1
+Rio Ave,Nacional,1,1
+Rio Ave,Paços de Ferreira,0,0
+Rio Ave,Penafiel,3,2
+Rio Ave,Porto,1,3
+Rio Ave,Sporting CP,0,1
+Rio Ave,Vitória de Guimarães,1,1
+Rio Ave,Vitória de Setúbal,2,0
+Sporting CP,Académica,1,0
+Sporting CP,Arouca,1,0
+Sporting CP,Belenenses,1,1
+Sporting CP,Benfica,1,1
+Sporting CP,Boavista,2,1
+Sporting CP,Braga,4,1
+Sporting CP,Estoril,3,0
+Sporting CP,Gil Vicente,2,0
+Sporting CP,Marítimo,4,2
+Sporting CP,Moreirense,1,1
+Sporting CP,Nacional,2,0
+Sporting CP,Paços de Ferreira,1,1
+Sporting CP,Penafiel,3,2
+Sporting CP,Porto,1,1
+Sporting CP,Rio Ave,4,2
+Sporting CP,Vitória de Guimarães,4,1
+Sporting CP,Vitória de Setúbal,3,0
+Vitória de Guimarães,Académica,4,0
+Vitória de Guimarães,Arouca,1,0
+Vitória de Guimarães,Belenenses,0,1
+Vitória de Guimarães,Benfica,0,0
+Vitória de Guimarães,Boavista,3,0
+Vitória de Guimarães,Braga,1,0
+Vitória de Guimarães,Estoril,2,0
+Vitória de Guimarães,Gil Vicente,2,2
+Vitória de Guimarães,Marítimo,1,0
+Vitória de Guimarães,Moreirense,2,1
+Vitória de Guimarães,Nacional,4,0
+Vitória de Guimarães,Paços de Ferreira,1,1
+Vitória de Guimarães,Penafiel,3,0
+Vitória de Guimarães,Porto,1,1
+Vitória de Guimarães,Rio Ave,0,0
+Vitória de Guimarães,Sporting CP,3,0
+Vitória de Guimarães,Vitória de Setúbal,0,1
+Vitória de Setúbal,Académica,0,0
+Vitória de Setúbal,Arouca,2,1
+Vitória de Setúbal,Belenenses,1,1
+Vitória de Setúbal,Benfica,0,5
+Vitória de Setúbal,Boavista,0,1
+Vitória de Setúbal,Braga,1,3
+Vitória de Setúbal,Estoril,1,2
+Vitória de Setúbal,Gil Vicente,2,0
+Vitória de Setúbal,Marítimo,1,0
+Vitória de Setúbal,Moreirense,2,1
+Vitória de Setúbal,Nacional,2,0
+Vitória de Setúbal,Paços de Ferreira,0,0
+Vitória de Setúbal,Penafiel,0,1
+Vitória de Setúbal,Porto,0,2
+Vitória de Setúbal,Rio Ave,4,1
+Vitória de Setúbal,Sporting CP,1,2
+Vitória de Setúbal,Vitória de Guimarães,0,1
