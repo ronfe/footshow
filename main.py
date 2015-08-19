@@ -133,7 +133,7 @@ def initMatchDay():
 
         # STEP 1: record match information
         matchRecord = home + ',' + away + ',' + str(homeScore) + ',' + str(awayScore) + '\n'
-        print matchRecord
+        print '\n\n' + matchRecord
         g = open('./1516results/' + league + '.csv', 'a')
         g.write(matchRecord)
         g.close()
