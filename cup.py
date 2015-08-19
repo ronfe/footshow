@@ -17,15 +17,13 @@ def updateLeague(league, team, updateA):
             home = each
     # calc the rate
     matchTeam = leagueDict[team]
-    aC = (string.atof(updateA[0]) - matchTeam[0]) / abs(matchTeam[0])
-    dC = (string.atof(updateA[1]) - matchTeam[1]) / abs(matchTeam[1])
-    attackRate = abs(aC * matchTeam[0]) * (aC / abs(aC)) + matchTeam[0]
-    defendRate = abs(dC * matchTeam[1]) * (dC / abs(dC)) + matchTeam[1]
+    aC = (string.atof(updateA[0]) - matchTeam[0])
+    dC = (string.atof(updateA[1]) - matchTeam[1])
 
     # update the league
     for each in leagueDict:
         originData = leagueDict[each]
-        newData = [abs(aC * originData[0]) * (aC / abs(aC)) + originData[0], abs(dC * originData[1]) * (dC / abs(dC)) + originData[1]]
+        newData = [originData[0] + aC, originData[1] + dC]
         leagueDict[each] = newData
 
     # record
