@@ -153,8 +153,8 @@ def initMatchDay():
             if (home not in eachOne) and (away not in eachOne):
                 newTeamList.append(eachOne)
 
-        newTeamList.append(homeChange)
-        newTeamList.append(awayChange)
+        newTeamList.append(homeChange + '\n')
+        newTeamList.append(awayChange + '\n')
 
         g = open(fileName, 'w')
         for eachTwo in newTeamList:
