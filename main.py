@@ -3,6 +3,11 @@ import string
 from scipy.stats import poisson
 from math import exp
 
+import os
+abspath = os.path.abspath(__file__)
+dname = os.path.dirname(abspath)
+os.chdir(dname)
+
 def probTable(homeAtt, homeDef, awayAtt, awayDef, homeFactor):
     lambdaA = exp(homeAtt - awayDef + homeFactor)
     lambdaB = exp(awayAtt - homeDef)
@@ -31,7 +36,7 @@ def probTable(homeAtt, homeDef, awayAtt, awayDef, homeFactor):
 
     return result
 
-def main(data, homeScore, awayScore, factor):
+def match(data, homeScore, awayScore, factor):
     # factor is a list of [homeAttack, homeDefence, awayAttack, awayDefence]
     nestedData = []
     pointer = 8
@@ -68,6 +73,7 @@ def main(data, homeScore, awayScore, factor):
     print 'For home team: '
     print 'The attack should add ' + str(deltaAttack) + ' to be ' + str(factor[0] + deltaAttack)
     print 'The defence should add ' + str(deltaDefence) + ' to be ' + str(factor[1] + deltaDefence)
+    homeF = [str(factor[0] + deltaAttack), str(factor[1] + deltaDefence)]
 
     # calc away factor
     tempProb = 0
@@ -93,8 +99,64 @@ def main(data, homeScore, awayScore, factor):
     print 'For away team: '
     print 'The attack should add ' + str(deltaAttack) + ' to be ' + str(factor[2] + deltaAttack)
     print 'The defence should add ' + str(deltaDefence) + ' to be ' + str(factor[3] + deltaDefence)
+    awayF = [str(factor[2] + deltaAttack), str(factor[3] + deltaDefence)]
 
-data = [0.11589818,0.18326767,0.14489891,0.07637533,0.03019273,0.00954864,0.00251652,0.00070422,0.06649792,0.10515194,0.08313742,0.04382123,0.01732343,0.00547864,0.00144388,0.00040405,0.01907697,0.03016607,0.02385053,0.01257147,0.00496976,0.00157172,0.00041422,0.00011592,0.00364854,0.00576938,0.00456151,0.00240434,0.00095049,0.00030060,0.00007922,0.00002217,0.00052335,0.00082756,0.00065430,0.00034488,0.00013634,0.00004312,0.00001136,0.00000318,0.00006006,0.00009496,0.00007508,0.00003958,0.00001565,0.00000495,0.00000130,0.00000036,0.00000574,0.00000908,0.00000718,0.00000378,0.00000150,0.00000047,0.00000012,0.00000003,0.00000051,0.00000080,0.00000063,0.00000033,0.00000013,0.00000004,0.00000001,0.00000000]
+    return [homeF, awayF]
 
-factor = [-0.9,-0.83,-0.37176429,-0.1319940]
-# main(data,0,0,factor)
+def initMatchDay():
+    matches = open('match.csv').readlines()
+    for each in matches:
+        # STEP 0: data preparation
+        each = each.strip()
+        league, home, away, homeScore, awayScore = each.split(',')
+        homeScore = string.atoi(homeScore)
+        awayScore = string.atoi(awayScore)
+
+        # fetch home / away team info
+        fileName = './teams/1516' + league + '.csv'
+        teams = open(fileName).read()
+        homeT = teams[teams.index(home):].split('\n')[0]
+        awayT = teams[teams.index(away):].split('\n')[0]
+
+        home, homeAtt, homeDef = homeT.split(',')
+        homeAtt = string.atof(homeAtt)
+        homeDef = string.atof(homeDef)
+
+        away, awayAtt, awayDef = awayT.split(',')
+        awayAtt = string.atof(awayAtt)
+        awayDef = string.atof(awayDef)
+
+        # fetch homefactor
+        homeFactor = string.atof(teams.split('\n')[-1].split('=')[1])
+
+        # STEP 1: record match information
+        matchRecord = home + ',' + away + ',' + str(homeScore) + ',' + str(awayScore) + '\n'
+        g = open('./1516results/' + league + '.csv', 'a')
+        g.write(matchRecord)
+        g.close()
+
+        # STEP 2: get the probtable
+        prob = probTable(homeAtt, homeDef, awayAtt, awayDef, homeFactor)
+        factor = [homeAtt, homeDef, awayAtt, awayDef]
+
+        # STEP 3: update data and record
+        changes = match(prob, homeScore, awayScore, factor)
+        homeChange = home + ','.join(changes[0])
+        awayChange = away + ','.join(changes[1])
+
+        teamList = open(fileName).readlines()
+        newTeamList = []
+        for eachOne in teamList:
+            if (home not in eachOne) and (away not in eachOne):
+                newTeamList.append(eachOne)
+
+        newTeamList.append(homeChange)
+        newTeamList.append(awayChange)
+
+        g = open(fileName, 'w')
+        for eachTwo in newTeamList:
+            g.write(eachTwo)
+
+        g.close()
+
+
