@@ -56,15 +56,18 @@ def predict(info, isNeutral, rangqiu):
     print 'Win: ' + str(round(winProb*100, 2)) + '\t' + 'Draw: ' + str(round(drawProb*100, 2)) + '\t' + 'Lose: ' + str(round(loseProb*100, 2))
     print 'Recommended Score: ' + str(idealHomeScore) + ' - ' + str(idealAwayScore)
 
-# g = open('predict.csv').readlines()
-# for m in g:
-#     tM = m.strip()
-#     predict(tM, False)
-#
-# g = open('predict.csv', 'w')
-# g.write('')
-# g.close()
+g = open('predict.csv').readlines()
+k = open('match.csv', 'w')
+for m in g:
+    tM = m.strip()
+    predict(tM, False)
+    k.write(m)
 
-predict('eng2,Hull City,Fulham', False, -1)
+g = open('predict.csv', 'w')
+g.write('')
+g.close()
+k.close()
+
+# predict('eng2,Hull City,Fulham', False, -1)
 
 print 'done'

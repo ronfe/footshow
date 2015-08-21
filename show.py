@@ -1,6 +1,7 @@
 __author__ = 'ronfe'
 import string
 import os
+from scipy.stats import norm
 
 abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
@@ -40,9 +41,9 @@ def showTable(league):
     std = pstdev(coefficients)
 
     for each in teams:
-        revisedAtt = ((teams[each][0] - kmean) / std)
-        revisedDef = ((teams[each][1] - kmean) / std)
-        print each + ',' + str(revisedAtt) + ',' + str(revisedDef) + ',' + str(round(revisedAtt + revisedDef, 2))
+        revisedAtt = norm.cdf(teams[each][0], kmean, std) * 100
+        revisedDef = norm.cdf(teams[each][1], kmean, std) * 100
+        print each + ',' + str(int(revisedAtt)) + ',' + str(int(revisedDef)) + ',' + str(round(revisedAtt + revisedDef, 2))
 
     print ''
     print 'done'
