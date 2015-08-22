@@ -1,0 +1,462 @@
+Alavés,Albacete,2,1
+Alavés,Alcorcón,1,1
+Alavés,Barcelona B,2,3
+Alavés,Betis,1,2
+Alavés,Girona,0,3
+Alavés,Las Palmas,1,1
+Alavés,Leganés,2,0
+Alavés,Llagostera,0,0
+Alavés,Lugo,1,0
+Alavés,Mallorca,2,0
+Alavés,Mirandés,1,3
+Alavés,Numancia,0,2
+Alavés,Osasuna,3,0
+Alavés,Ponferradina,2,1
+Alavés,Racing Santander,2,1
+Alavés,Recreativo,0,0
+Alavés,Sabadell,3,1
+Alavés,Sporting de Gijón,0,0
+Alavés,Tenerife,1,0
+Alavés,Valladolid,0,2
+Alavés,Zaragoza,4,0
+Albacete,Alavés,2,3
+Albacete,Alcorcón,2,3
+Albacete,Barcelona B,2,1
+Albacete,Betis,0,0
+Albacete,Girona,0,1
+Albacete,Las Palmas,1,0
+Albacete,Leganés,1,0
+Albacete,Llagostera,0,2
+Albacete,Lugo,3,0
+Albacete,Mallorca,4,2
+Albacete,Mirandés,0,0
+Albacete,Numancia,0,1
+Albacete,Osasuna,2,0
+Albacete,Ponferradina,2,1
+Albacete,Racing Santander,0,1
+Albacete,Recreativo,3,1
+Albacete,Sabadell,0,0
+Albacete,Sporting de Gijón,1,1
+Albacete,Tenerife,3,2
+Albacete,Valladolid,3,4
+Albacete,Zaragoza,2,2
+Alcorcón,Alavés,0,1
+Alcorcón,Albacete,2,3
+Alcorcón,Barcelona B,3,1
+Alcorcón,Betis,0,0
+Alcorcón,Girona,1,2
+Alcorcón,Las Palmas,0,0
+Alcorcón,Leganés,1,0
+Alcorcón,Llagostera,2,0
+Alcorcón,Lugo,1,0
+Alcorcón,Mallorca,0,0
+Alcorcón,Mirandés,2,2
+Alcorcón,Numancia,1,1
+Alcorcón,Osasuna,2,0
+Alcorcón,Ponferradina,1,1
+Alcorcón,Racing Santander,2,0
+Alcorcón,Recreativo,1,1
+Alcorcón,Sabadell,3,2
+Alcorcón,Sporting de Gijón,0,0
+Alcorcón,Tenerife,0,0
+Alcorcón,Valladolid,0,1
+Alcorcón,Zaragoza,1,3
+Barcelona B,Alavés,0,0
+Barcelona B,Albacete,1,2
+Barcelona B,Alcorcón,4,1
+Barcelona B,Betis,1,2
+Barcelona B,Girona,2,4
+Barcelona B,Las Palmas,0,2
+Barcelona B,Leganés,2,5
+Barcelona B,Llagostera,0,1
+Barcelona B,Lugo,0,1
+Barcelona B,Mallorca,2,4
+Barcelona B,Mirandés,1,3
+Barcelona B,Numancia,1,1
+Barcelona B,Osasuna,0,1
+Barcelona B,Ponferradina,2,1
+Barcelona B,Racing Santander,1,1
+Barcelona B,Recreativo,3,1
+Barcelona B,Sabadell,3,1
+Barcelona B,Sporting de Gijón,0,0
+Barcelona B,Tenerife,2,2
+Barcelona B,Valladolid,1,3
+Barcelona B,Zaragoza,4,1
+Betis,Alavés,1,2
+Betis,Albacete,0,1
+Betis,Alcorcón,3,0
+Betis,Barcelona B,1,0
+Betis,Girona,2,1
+Betis,Las Palmas,0,0
+Betis,Leganés,1,3
+Betis,Llagostera,2,2
+Betis,Lugo,5,1
+Betis,Mallorca,1,0
+Betis,Mirandés,2,0
+Betis,Numancia,2,1
+Betis,Osasuna,3,0
+Betis,Ponferradina,1,1
+Betis,Racing Santander,2,0
+Betis,Recreativo,3,2
+Betis,Sabadell,2,0
+Betis,Sporting de Gijón,0,3
+Betis,Tenerife,3,1
+Betis,Valladolid,4,0
+Betis,Zaragoza,4,0
+Girona,Alavés,2,2
+Girona,Albacete,2,2
+Girona,Alcorcón,3,0
+Girona,Barcelona B,0,1
+Girona,Betis,1,3
+Girona,Las Palmas,1,2
+Girona,Leganés,2,1
+Girona,Llagostera,1,0
+Girona,Lugo,1,1
+Girona,Mallorca,0,0
+Girona,Mirandés,3,0
+Girona,Numancia,2,1
+Girona,Osasuna,3,0
+Girona,Ponferradina,3,0
+Girona,Racing Santander,1,0
+Girona,Recreativo,2,0
+Girona,Sabadell,0,0
+Girona,Sporting de Gijón,0,0
+Girona,Tenerife,2,0
+Girona,Valladolid,2,1
+Girona,Zaragoza,1,1
+Las Palmas,Alavés,3,2
+Las Palmas,Albacete,2,1
+Las Palmas,Alcorcón,4,1
+Las Palmas,Barcelona B,4,3
+Las Palmas,Betis,0,3
+Las Palmas,Girona,2,0
+Las Palmas,Leganés,1,0
+Las Palmas,Llagostera,2,0
+Las Palmas,Lugo,3,0
+Las Palmas,Mallorca,2,1
+Las Palmas,Mirandés,0,0
+Las Palmas,Numancia,2,0
+Las Palmas,Osasuna,1,2
+Las Palmas,Ponferradina,4,2
+Las Palmas,Racing Santander,1,0
+Las Palmas,Recreativo,3,0
+Las Palmas,Sabadell,2,0
+Las Palmas,Sporting de Gijón,1,1
+Las Palmas,Tenerife,1,1
+Las Palmas,Valladolid,1,1
+Las Palmas,Zaragoza,5,3
+Leganés,Alavés,1,1
+Leganés,Albacete,2,0
+Leganés,Alcorcón,1,2
+Leganés,Barcelona B,2,0
+Leganés,Betis,1,0
+Leganés,Girona,1,2
+Leganés,Las Palmas,2,1
+Leganés,Llagostera,0,2
+Leganés,Lugo,2,0
+Leganés,Mallorca,3,1
+Leganés,Mirandés,0,0
+Leganés,Numancia,0,0
+Leganés,Osasuna,1,1
+Leganés,Ponferradina,1,1
+Leganés,Racing Santander,2,2
+Leganés,Recreativo,2,0
+Leganés,Sabadell,1,1
+Leganés,Sporting de Gijón,0,1
+Leganés,Tenerife,2,0
+Leganés,Valladolid,1,0
+Leganés,Zaragoza,2,2
+Llagostera,Alavés,3,1
+Llagostera,Albacete,2,3
+Llagostera,Alcorcón,0,0
+Llagostera,Barcelona B,1,0
+Llagostera,Betis,0,2
+Llagostera,Girona,1,2
+Llagostera,Las Palmas,0,0
+Llagostera,Leganés,2,0
+Llagostera,Lugo,3,2
+Llagostera,Mallorca,1,4
+Llagostera,Mirandés,0,1
+Llagostera,Numancia,0,0
+Llagostera,Osasuna,0,0
+Llagostera,Ponferradina,3,1
+Llagostera,Racing Santander,0,2
+Llagostera,Recreativo,1,0
+Llagostera,Sabadell,0,1
+Llagostera,Sporting de Gijón,0,0
+Llagostera,Tenerife,2,0
+Llagostera,Valladolid,2,0
+Llagostera,Zaragoza,0,1
+Lugo,Alavés,3,2
+Lugo,Albacete,1,1
+Lugo,Alcorcón,0,0
+Lugo,Barcelona B,3,2
+Lugo,Betis,0,1
+Lugo,Girona,1,2
+Lugo,Las Palmas,2,1
+Lugo,Leganés,0,0
+Lugo,Llagostera,1,1
+Lugo,Mallorca,4,0
+Lugo,Mirandés,1,1
+Lugo,Numancia,1,1
+Lugo,Osasuna,4,3
+Lugo,Ponferradina,0,0
+Lugo,Racing Santander,0,0
+Lugo,Recreativo,2,1
+Lugo,Sabadell,2,1
+Lugo,Sporting de Gijón,1,2
+Lugo,Tenerife,1,0
+Lugo,Valladolid,1,0
+Lugo,Zaragoza,3,3
+Mallorca,Alavés,2,0
+Mallorca,Albacete,2,0
+Mallorca,Alcorcón,1,1
+Mallorca,Barcelona B,3,3
+Mallorca,Betis,1,2
+Mallorca,Girona,0,1
+Mallorca,Las Palmas,1,1
+Mallorca,Leganés,0,2
+Mallorca,Llagostera,0,1
+Mallorca,Lugo,2,1
+Mallorca,Mirandés,2,0
+Mallorca,Numancia,1,1
+Mallorca,Osasuna,3,0
+Mallorca,Ponferradina,1,0
+Mallorca,Racing Santander,2,3
+Mallorca,Recreativo,1,2
+Mallorca,Sabadell,1,0
+Mallorca,Sporting de Gijón,0,1
+Mallorca,Tenerife,2,1
+Mallorca,Valladolid,1,5
+Mallorca,Zaragoza,3,2
+Mirandés,Alavés,3,0
+Mirandés,Albacete,3,2
+Mirandés,Alcorcón,1,2
+Mirandés,Barcelona B,2,3
+Mirandés,Betis,0,0
+Mirandés,Girona,0,1
+Mirandés,Las Palmas,2,1
+Mirandés,Leganés,1,0
+Mirandés,Llagostera,1,0
+Mirandés,Lugo,0,0
+Mirandés,Mallorca,2,0
+Mirandés,Numancia,2,0
+Mirandés,Osasuna,1,0
+Mirandés,Ponferradina,2,1
+Mirandés,Racing Santander,0,2
+Mirandés,Recreativo,2,1
+Mirandés,Sabadell,0,0
+Mirandés,Sporting de Gijón,0,2
+Mirandés,Tenerife,1,1
+Mirandés,Valladolid,0,0
+Mirandés,Zaragoza,1,1
+Numancia,Alavés,1,0
+Numancia,Albacete,1,1
+Numancia,Alcorcón,2,2
+Numancia,Barcelona B,1,0
+Numancia,Betis,1,1
+Numancia,Girona,2,2
+Numancia,Las Palmas,4,2
+Numancia,Leganés,1,1
+Numancia,Llagostera,3,2
+Numancia,Lugo,6,6
+Numancia,Mallorca,1,2
+Numancia,Mirandés,1,0
+Numancia,Osasuna,0,0
+Numancia,Ponferradina,1,3
+Numancia,Racing Santander,0,2
+Numancia,Recreativo,1,2
+Numancia,Sabadell,3,0
+Numancia,Sporting de Gijón,1,2
+Numancia,Tenerife,3,3
+Numancia,Valladolid,0,1
+Numancia,Zaragoza,2,0
+Osasuna,Alavés,1,3
+Osasuna,Albacete,2,1
+Osasuna,Alcorcón,1,1
+Osasuna,Barcelona B,2,0
+Osasuna,Betis,3,2
+Osasuna,Girona,0,0
+Osasuna,Las Palmas,1,2
+Osasuna,Leganés,2,1
+Osasuna,Llagostera,0,1
+Osasuna,Lugo,0,2
+Osasuna,Mallorca,6,4
+Osasuna,Mirandés,2,0
+Osasuna,Numancia,1,1
+Osasuna,Ponferradina,0,1
+Osasuna,Racing Santander,0,2
+Osasuna,Recreativo,2,0
+Osasuna,Sabadell,0,0
+Osasuna,Sporting de Gijón,0,0
+Osasuna,Tenerife,3,2
+Osasuna,Valladolid,2,1
+Osasuna,Zaragoza,0,1
+Ponferradina,Alavés,2,1
+Ponferradina,Albacete,1,0
+Ponferradina,Alcorcón,1,1
+Ponferradina,Barcelona B,4,4
+Ponferradina,Betis,4,1
+Ponferradina,Girona,3,0
+Ponferradina,Las Palmas,2,2
+Ponferradina,Leganés,1,1
+Ponferradina,Llagostera,0,1
+Ponferradina,Lugo,1,0
+Ponferradina,Mallorca,3,1
+Ponferradina,Mirandés,1,0
+Ponferradina,Numancia,1,2
+Ponferradina,Osasuna,1,0
+Ponferradina,Racing Santander,1,1
+Ponferradina,Recreativo,3,3
+Ponferradina,Sabadell,3,0
+Ponferradina,Sporting de Gijón,0,2
+Ponferradina,Tenerife,1,0
+Ponferradina,Valladolid,2,0
+Ponferradina,Zaragoza,1,1
+Racing Santander,Alavés,1,1
+Racing Santander,Albacete,1,0
+Racing Santander,Alcorcón,0,1
+Racing Santander,Barcelona B,0,0
+Racing Santander,Betis,2,4
+Racing Santander,Girona,0,1
+Racing Santander,Las Palmas,1,2
+Racing Santander,Leganés,1,2
+Racing Santander,Llagostera,0,2
+Racing Santander,Lugo,1,0
+Racing Santander,Mallorca,0,1
+Racing Santander,Mirandés,1,2
+Racing Santander,Numancia,1,1
+Racing Santander,Osasuna,2,0
+Racing Santander,Ponferradina,0,1
+Racing Santander,Recreativo,3,0
+Racing Santander,Sabadell,3,1
+Racing Santander,Sporting de Gijón,1,1
+Racing Santander,Tenerife,1,0
+Racing Santander,Valladolid,1,4
+Racing Santander,Zaragoza,0,2
+Recreativo,Alavés,0,0
+Recreativo,Albacete,4,1
+Recreativo,Alcorcón,2,1
+Recreativo,Barcelona B,2,0
+Recreativo,Betis,0,1
+Recreativo,Girona,0,3
+Recreativo,Las Palmas,2,4
+Recreativo,Leganés,1,0
+Recreativo,Llagostera,2,0
+Recreativo,Lugo,0,0
+Recreativo,Mallorca,0,0
+Recreativo,Mirandés,0,1
+Recreativo,Numancia,0,3
+Recreativo,Osasuna,1,1
+Recreativo,Ponferradina,0,1
+Recreativo,Racing Santander,1,0
+Recreativo,Sabadell,3,1
+Recreativo,Sporting de Gijón,1,1
+Recreativo,Tenerife,1,1
+Recreativo,Valladolid,0,3
+Recreativo,Zaragoza,0,0
+Sabadell,Alavés,2,1
+Sabadell,Albacete,6,1
+Sabadell,Alcorcón,0,1
+Sabadell,Barcelona B,1,4
+Sabadell,Betis,2,3
+Sabadell,Girona,0,2
+Sabadell,Las Palmas,2,2
+Sabadell,Leganés,1,2
+Sabadell,Llagostera,1,1
+Sabadell,Lugo,2,1
+Sabadell,Mallorca,1,1
+Sabadell,Mirandés,3,2
+Sabadell,Numancia,0,3
+Sabadell,Osasuna,2,2
+Sabadell,Ponferradina,1,0
+Sabadell,Racing Santander,3,2
+Sabadell,Recreativo,1,0
+Sabadell,Sporting de Gijón,2,2
+Sabadell,Tenerife,1,3
+Sabadell,Valladolid,0,0
+Sabadell,Zaragoza,0,0
+Sporting de Gijón,Alavés,1,0
+Sporting de Gijón,Albacete,2,1
+Sporting de Gijón,Alcorcón,2,1
+Sporting de Gijón,Barcelona B,0,0
+Sporting de Gijón,Betis,1,2
+Sporting de Gijón,Girona,1,1
+Sporting de Gijón,Las Palmas,1,1
+Sporting de Gijón,Leganés,2,1
+Sporting de Gijón,Llagostera,0,0
+Sporting de Gijón,Lugo,2,1
+Sporting de Gijón,Mallorca,1,0
+Sporting de Gijón,Mirandés,4,1
+Sporting de Gijón,Numancia,3,0
+Sporting de Gijón,Osasuna,2,0
+Sporting de Gijón,Ponferradina,2,1
+Sporting de Gijón,Racing Santander,3,1
+Sporting de Gijón,Recreativo,1,1
+Sporting de Gijón,Sabadell,2,0
+Sporting de Gijón,Tenerife,2,0
+Sporting de Gijón,Valladolid,1,1
+Sporting de Gijón,Zaragoza,3,1
+Tenerife,Alavés,1,1
+Tenerife,Albacete,1,1
+Tenerife,Alcorcón,1,1
+Tenerife,Barcelona B,2,0
+Tenerife,Betis,2,0
+Tenerife,Girona,0,1
+Tenerife,Las Palmas,2,1
+Tenerife,Leganés,1,0
+Tenerife,Llagostera,0,0
+Tenerife,Lugo,1,1
+Tenerife,Mallorca,0,0
+Tenerife,Mirandés,1,0
+Tenerife,Numancia,0,0
+Tenerife,Osasuna,2,1
+Tenerife,Ponferradina,0,1
+Tenerife,Racing Santander,1,0
+Tenerife,Recreativo,0,2
+Tenerife,Sabadell,1,0
+Tenerife,Sporting de Gijón,1,1
+Tenerife,Valladolid,2,0
+Tenerife,Zaragoza,1,1
+Valladolid,Alavés,2,0
+Valladolid,Albacete,0,1
+Valladolid,Alcorcón,1,0
+Valladolid,Barcelona B,7,0
+Valladolid,Betis,0,0
+Valladolid,Girona,1,0
+Valladolid,Las Palmas,1,2
+Valladolid,Leganés,2,0
+Valladolid,Llagostera,2,4
+Valladolid,Lugo,0,0
+Valladolid,Mallorca,2,1
+Valladolid,Mirandés,2,1
+Valladolid,Numancia,4,0
+Valladolid,Osasuna,1,1
+Valladolid,Ponferradina,0,0
+Valladolid,Racing Santander,3,1
+Valladolid,Recreativo,1,0
+Valladolid,Sabadell,0,0
+Valladolid,Sporting de Gijón,3,0
+Valladolid,Tenerife,2,1
+Valladolid,Zaragoza,1,3
+Zaragoza,Alavés,1,0
+Zaragoza,Albacete,3,1
+Zaragoza,Alcorcón,1,1
+Zaragoza,Barcelona B,4,0
+Zaragoza,Betis,2,2
+Zaragoza,Girona,2,1
+Zaragoza,Las Palmas,0,2
+Zaragoza,Leganés,2,0
+Zaragoza,Llagostera,2,2
+Zaragoza,Lugo,0,0
+Zaragoza,Mallorca,2,0
+Zaragoza,Mirandés,0,1
+Zaragoza,Numancia,1,0
+Zaragoza,Osasuna,1,1
+Zaragoza,Ponferradina,4,1
+Zaragoza,Racing Santander,2,1
+Zaragoza,Recreativo,2,0
+Zaragoza,Sabadell,1,1
+Zaragoza,Sporting de Gijón,1,1
+Zaragoza,Tenerife,2,3
+Zaragoza,Valladolid,0,2

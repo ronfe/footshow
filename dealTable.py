@@ -1,7 +1,7 @@
 __author__ = 'ronfe'
 
 
-tableFile = '1415results/esp1.csv'
+tableFile = '1415results/ita1.csv'
 
 f = open(tableFile).readlines()
 
