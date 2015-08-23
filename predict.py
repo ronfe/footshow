@@ -54,7 +54,7 @@ def predict(info, isNeutral, rangqiu):
     if (rangqiu != 0):
         print 'With Rangqiu of ' + str(rangqiu)
     print 'Win: ' + str(round(winProb*100, 2)) + '\t' + 'Draw: ' + str(round(drawProb*100, 2)) + '\t' + 'Lose: ' + str(round(loseProb*100, 2))
-    print 'Recommended Score: ' + str(idealHomeScore) + ' - ' + str(idealAwayScore)
+    print 'Recommended Score: ' + str(idealHomeScore) + ' - ' + str(idealAwayScore) + ', with Prob: ' + str(nestedData[idealHomeScore][idealAwayScore])
 
 g = open('predict.csv').readlines()
 k = open('match.csv', 'w')
