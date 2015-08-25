@@ -48,4 +48,4 @@ def showTable(league):
     print ''
     print 'done'
 
-showTable('eng2')
+showTable('eng1')
