@@ -48,4 +48,13 @@ def showTable(league):
     print ''
     print 'done'
 
+showTable('esp1')
+showTable('esp2')
+showTable('eng1')
+showTable('eng2')
+showTable('ger1')
+showTable('ger2')
+showTable('ita1')
+showTable('fra1')
+showTable('por1')
 showTable('rus1')
