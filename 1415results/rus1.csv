@@ -2,7 +2,7 @@ Amkar Perm,Arsenal Tula,0,1
 Amkar Perm,CSKA Moscow,1,0
 Amkar Perm,Dynamo Moscow,2,0
 Amkar Perm,Krasnodar,1,2
-Amkar Perm,Kuban Krasnodar,1,0
+Amkar Perm,Kuban,1,0
 Amkar Perm,Lokomotiv Moscow,1,1
 Amkar Perm,Mordovia Saransk,0,1
 Amkar Perm,Rostov,2,0
@@ -17,7 +17,7 @@ Arsenal Tula,Amkar Perm,4,0
 Arsenal Tula,CSKA Moscow,1,4
 Arsenal Tula,Dynamo Moscow,1,2
 Arsenal Tula,Krasnodar,0,3
-Arsenal Tula,Kuban Krasnodar,0,1
+Arsenal Tula,Kuban,0,1
 Arsenal Tula,Lokomotiv Moscow,0,2
 Arsenal Tula,Mordovia Saransk,0,1
 Arsenal Tula,Rostov,1,1
@@ -32,7 +32,7 @@ CSKA Moscow,Amkar Perm,2,1
 CSKA Moscow,Arsenal Tula,2,1
 CSKA Moscow,Dynamo Moscow,1,2
 CSKA Moscow,Krasnodar,1,1
-CSKA Moscow,Kuban Krasnodar,6,0
+CSKA Moscow,Kuban,6,0
 CSKA Moscow,Lokomotiv Moscow,1,0
 CSKA Moscow,Mordovia Saransk,4,0
 CSKA Moscow,Rostov,6,0
@@ -47,7 +47,7 @@ Dynamo Moscow,Amkar Perm,5,0
 Dynamo Moscow,Arsenal Tula,2,2
 Dynamo Moscow,CSKA Moscow,1,0
 Dynamo Moscow,Krasnodar,1,1
-Dynamo Moscow,Kuban Krasnodar,2,2
+Dynamo Moscow,Kuban,2,2
 Dynamo Moscow,Lokomotiv Moscow,2,2
 Dynamo Moscow,Mordovia Saransk,2,1
 Dynamo Moscow,Rostov,7,3
@@ -62,7 +62,7 @@ Krasnodar,Amkar Perm,1,1
 Krasnodar,Arsenal Tula,3,0
 Krasnodar,CSKA Moscow,2,1
 Krasnodar,Dynamo Moscow,0,2
-Krasnodar,Kuban Krasnodar,3,2
+Krasnodar,Kuban,3,2
 Krasnodar,Lokomotiv Moscow,1,0
 Krasnodar,Mordovia Saransk,4,0
 Krasnodar,Rostov,2,1
@@ -73,27 +73,27 @@ Krasnodar,Torpedo Moscow,2,2
 Krasnodar,Ufa,0,2
 Krasnodar,Ural Sverdlovsk Oblast,1,1
 Krasnodar,Zenit St. Petersburg,2,2
-Kuban Krasnodar,Amkar Perm,1,0
-Kuban Krasnodar,Arsenal Tula,5,1
-Kuban Krasnodar,CSKA Moscow,0,1
-Kuban Krasnodar,Dynamo Moscow,1,2
-Kuban Krasnodar,Krasnodar,1,1
-Kuban Krasnodar,Lokomotiv Moscow,2,1
-Kuban Krasnodar,Mordovia Saransk,0,0
-Kuban Krasnodar,Rostov,2,2
-Kuban Krasnodar,Rubin Kazan,2,1
-Kuban Krasnodar,Spartak Moscow,3,3
-Kuban Krasnodar,Terek Grozny,1,0
-Kuban Krasnodar,Torpedo Moscow,1,1
-Kuban Krasnodar,Ufa,2,0
-Kuban Krasnodar,Ural Sverdlovsk Oblast,0,2
-Kuban Krasnodar,Zenit St. Petersburg,0,0
+Kuban,Amkar Perm,1,0
+Kuban,Arsenal Tula,5,1
+Kuban,CSKA Moscow,0,1
+Kuban,Dynamo Moscow,1,2
+Kuban,Krasnodar,1,1
+Kuban,Lokomotiv Moscow,2,1
+Kuban,Mordovia Saransk,0,0
+Kuban,Rostov,2,2
+Kuban,Rubin Kazan,2,1
+Kuban,Spartak Moscow,3,3
+Kuban,Terek Grozny,1,0
+Kuban,Torpedo Moscow,1,1
+Kuban,Ufa,2,0
+Kuban,Ural Sverdlovsk Oblast,0,2
+Kuban,Zenit St. Petersburg,0,0
 Lokomotiv Moscow,Amkar Perm,3,1
 Lokomotiv Moscow,Arsenal Tula,0,1
 Lokomotiv Moscow,CSKA Moscow,1,3
 Lokomotiv Moscow,Dynamo Moscow,4,2
 Lokomotiv Moscow,Krasnodar,0,0
-Lokomotiv Moscow,Kuban Krasnodar,1,1
+Lokomotiv Moscow,Kuban,1,1
 Lokomotiv Moscow,Mordovia Saransk,1,1
 Lokomotiv Moscow,Rostov,2,1
 Lokomotiv Moscow,Rubin Kazan,3,0
@@ -108,7 +108,7 @@ Mordovia Saransk,Arsenal Tula,1,0
 Mordovia Saransk,CSKA Moscow,0,1
 Mordovia Saransk,Dynamo Moscow,0,1
 Mordovia Saransk,Krasnodar,2,1
-Mordovia Saransk,Kuban Krasnodar,0,0
+Mordovia Saransk,Kuban,0,0
 Mordovia Saransk,Lokomotiv Moscow,0,0
 Mordovia Saransk,Rostov,0,0
 Mordovia Saransk,Rubin Kazan,0,1
@@ -123,7 +123,7 @@ Rostov,Arsenal Tula,0,1
 Rostov,CSKA Moscow,1,1
 Rostov,Dynamo Moscow,2,2
 Rostov,Krasnodar,0,2
-Rostov,Kuban Krasnodar,2,1
+Rostov,Kuban,2,1
 Rostov,Lokomotiv Moscow,0,1
 Rostov,Mordovia Saransk,2,1
 Rostov,Rubin Kazan,1,2
@@ -138,7 +138,7 @@ Rubin Kazan,Arsenal Tula,1,0
 Rubin Kazan,CSKA Moscow,2,1
 Rubin Kazan,Dynamo Moscow,1,1
 Rubin Kazan,Krasnodar,1,2
-Rubin Kazan,Kuban Krasnodar,1,0
+Rubin Kazan,Kuban,1,0
 Rubin Kazan,Lokomotiv Moscow,1,1
 Rubin Kazan,Mordovia Saransk,5,0
 Rubin Kazan,Rostov,2,0
@@ -153,7 +153,7 @@ Spartak Moscow,Arsenal Tula,2,0
 Spartak Moscow,CSKA Moscow,0,4
 Spartak Moscow,Dynamo Moscow,1,0
 Spartak Moscow,Krasnodar,1,3
-Spartak Moscow,Kuban Krasnodar,1,1
+Spartak Moscow,Kuban,1,1
 Spartak Moscow,Lokomotiv Moscow,1,1
 Spartak Moscow,Mordovia Saransk,4,2
 Spartak Moscow,Rostov,1,1
@@ -168,7 +168,7 @@ Terek Grozny,Arsenal Tula,3,0
 Terek Grozny,CSKA Moscow,1,2
 Terek Grozny,Dynamo Moscow,0,0
 Terek Grozny,Krasnodar,0,1
-Terek Grozny,Kuban Krasnodar,0,0
+Terek Grozny,Kuban,0,0
 Terek Grozny,Lokomotiv Moscow,0,0
 Terek Grozny,Mordovia Saransk,1,0
 Terek Grozny,Rostov,2,1
@@ -183,7 +183,7 @@ Torpedo Moscow,Arsenal Tula,0,1
 Torpedo Moscow,CSKA Moscow,0,2
 Torpedo Moscow,Dynamo Moscow,1,3
 Torpedo Moscow,Krasnodar,0,3
-Torpedo Moscow,Kuban Krasnodar,0,0
+Torpedo Moscow,Kuban,0,0
 Torpedo Moscow,Lokomotiv Moscow,0,1
 Torpedo Moscow,Mordovia Saransk,2,0
 Torpedo Moscow,Rostov,2,1
@@ -198,7 +198,7 @@ Ufa,Arsenal Tula,0,1
 Ufa,CSKA Moscow,3,3
 Ufa,Dynamo Moscow,0,2
 Ufa,Krasnodar,0,2
-Ufa,Kuban Krasnodar,3,2
+Ufa,Kuban,3,2
 Ufa,Lokomotiv Moscow,1,0
 Ufa,Mordovia Saransk,1,2
 Ufa,Rostov,0,0
@@ -213,7 +213,7 @@ Ural Sverdlovsk Oblast,Arsenal Tula,1,0
 Ural Sverdlovsk Oblast,CSKA Moscow,3,4
 Ural Sverdlovsk Oblast,Dynamo Moscow,2,1
 Ural Sverdlovsk Oblast,Krasnodar,1,1
-Ural Sverdlovsk Oblast,Kuban Krasnodar,0,1
+Ural Sverdlovsk Oblast,Kuban,0,1
 Ural Sverdlovsk Oblast,Lokomotiv Moscow,2,0
 Ural Sverdlovsk Oblast,Mordovia Saransk,2,3
 Ural Sverdlovsk Oblast,Rostov,0,1
@@ -228,7 +228,7 @@ Zenit St. Petersburg,Arsenal Tula,1,0
 Zenit St. Petersburg,CSKA Moscow,2,1
 Zenit St. Petersburg,Dynamo Moscow,3,2
 Zenit St. Petersburg,Krasnodar,4,0
-Zenit St. Petersburg,Kuban Krasnodar,1,0
+Zenit St. Petersburg,Kuban,1,0
 Zenit St. Petersburg,Lokomotiv Moscow,1,0
 Zenit St. Petersburg,Mordovia Saransk,5,0
 Zenit St. Petersburg,Rostov,3,0
