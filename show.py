@@ -31,7 +31,7 @@ def showTable(league):
     teams = {}
     coefficients = []
     for each in f:
-        if '$home' not in each:
+        if '$home' not in each and len(each) != 0:
             team, attack, defend = each.strip().split(',')
             teams[team] = [string.atof(attack), string.atof(defend)]
             coefficients.append(string.atof(attack))
