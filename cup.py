@@ -36,9 +36,9 @@ def updateLeague(league, team, updateA):
 
     g.close()
 
-data = probTable(0.609432072176,0.533128682741,0.918138757939,0.826831427173,0.318439)
-a = match(data, 2, 3, [0.609432072176,0.533128682741,0.918138757939,0.826831427173])
+data = probTable(0.295741751714,0.238690993504,-0.0926661646824,-0.0718366292598,0.318439)
+a = match(data, 3, 1, [0.295741751714,0.238690993504,-0.0926661646824,-0.0718366292598])
 print a
-updateLeague('esp1', 'Valencia', a[0])
-updateLeague('rus1', 'Zenit St. Petersburg', a[1])
+updateLeague('esp1', 'Athletic Bilbao', a[0])
+updateLeague('ger1', 'FC Augsburg', a[1])
 print 'done'
