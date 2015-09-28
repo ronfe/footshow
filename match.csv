@@ -1,34 +1,34 @@
-eng2,Middlesbrough,Leeds United
-eng1,Watford,Crystal Palace
-esp2,Elche,Oviedo
-esp2,Tenerife,Mirandés
-esp2,Alavés,Leganés
-esp2,Girona,Llagostera
-esp2,Valladolid,Gimnàstic
-esp1,Sporting Gijón,Real Betis
-esp1,Deportivo La Coruña,Espanyol
-ger2,SC Freiburg,FSV Frankfurt
-ger2,1860 München,RB Leipzig
-ger2,1. FC Heidenheim,Karlsruher SC
-ger1,Eintracht Frankfurt,Hertha BSC
-ger1,Borussia Dortmund,Darmstadt 98
-ita1,Genoa,Milan
-ita1,Hellas Verona,Lazio
-ita1,Bologna,Udinese
-ita1,Torino,Palermo
-ita1,Sassuolo,Chievo
-fra1,Marseille,Angers
-fra1,Montpellier,Lorient
-fra1,Guingamp,Monaco
-por1,Marítimo,Tondela
-por1,Nacional,Vitória de Setúbal
-rus1,Krylia Sovetov Samara,Dynamo Moscow
-rus1,Krasnodar,Terek Grozny
-esp2,Albacete,Almeria
-esp1,Getafe,Levante
-ita1,Internazionale,Fiorentina
-fra1,Saint-Étienne,Nice
-por1,Arouca,Belenenses
-por1,Estoril,União da Madeira
-por1,Vitória de Guimarães,Braga
-rus1,Rubin Kazan,Ural Sverdlovsk Oblast
+eng2,Middlesbrough,Leeds United,3,0
+eng1,Watford,Crystal Palace,0,1
+esp2,Elche,Oviedo,1,1
+esp2,Tenerife,Mirandés,3,0
+esp2,Alavés,Leganés,0,0
+esp2,Girona,Llagostera,2,2
+esp2,Valladolid,Gimnàstic,0,0
+esp1,Sporting Gijón,Real Betis,1,2
+esp1,Deportivo La Coruña,Espanyol,3,0
+ger2,SC Freiburg,FSV Frankfurt,2,0
+ger2,1860 München,RB Leipzig,2,2
+ger2,1. FC Heidenheim,Karlsruher SC,1,1
+ger1,Eintracht Frankfurt,Hertha BSC,1,1
+ger1,Borussia Dortmund,Darmstadt 98,2,2
+ita1,Genoa,Milan,1,0
+ita1,Hellas Verona,Lazio,1,2
+ita1,Bologna,Udinese,1,2
+ita1,Torino,Palermo,2,1
+ita1,Sassuolo,Chievo,1,1
+fra1,Marseille,Angers,1,2
+fra1,Montpellier,Lorient,2,1
+fra1,Guingamp,Monaco,3,3
+por1,Marítimo,Tondela,1,0
+por1,Nacional,Vitória de Setúbal,1,1
+rus1,Krylia Sovetov Samara,Dynamo Moscow,0,0
+rus1,Krasnodar,Terek Grozny,1,1
+esp2,Albacete,Almeria,3,0
+esp1,Getafe,Levante,3,0
+ita1,Internazionale,Fiorentina,1,4
+fra1,Saint-Étienne,Nice,1,4
+por1,Arouca,Belenenses,2,2
+por1,Estoril,União da Madeira,2,1
+por1,Vitória de Guimarães,Braga,0,1
+rus1,Rubin Kazan,Ural Sverdlovsk Oblast,1,2
