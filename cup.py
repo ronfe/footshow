@@ -36,15 +36,15 @@ def updateLeague(league, team, updateA):
 
     g.close()
 
-homeTeam, homeAtt, homeDef = 'Lyon',0.631544726306,0.27519873141
-awayTeam, awayAtt, awayDef = 'Valencia',0.514940548207,0.427674929537
+homeTeam, homeAtt, homeDef = 'Juventus',0.511384826711,0.491719257935
+awayTeam, awayAtt, awayDef = 'Sevilla',0.650595657978,0.0498623790066
 
-homeFactor = [0.2698757]
-homeScore, awayScore = 0,1
+homeFactor = [0.2441808]
+homeScore, awayScore = 2,0
 
 data = probTable(homeAtt,homeDef,awayAtt,awayDef,homeFactor[0])
 a = match(data, homeScore, awayScore, [homeAtt,homeDef,awayAtt,awayDef])
 print a
-updateLeague('fra1', homeTeam, a[0])
+updateLeague('ita1', homeTeam, a[0])
 updateLeague('esp1', awayTeam, a[1])
 print 'done'
