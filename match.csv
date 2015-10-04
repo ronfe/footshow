@@ -1,44 +1,40 @@
-eng2,Wolverhampton Wanderers,Huddersfield Town,3,0
-eng2,Blackburn Rovers,Huddersfield Town,2,0
-eng2,Sheffield Wednesday,Preston North End,3,1
-eng2,Bristol City,Milton Keynes Dons,1,1
-eng2,Brighton & Hove Albion,Cardiff City,1,1
-eng2,Derby County,Brentford,2,0
-eng2,Queens Park Rangers,Bolton Wanderers,4,3
-eng2,Nottingham Forest,Hull City,0,1
-eng2,Reading,Middlesbrough,2,0
-eng2,Leeds United,Birmingham City,0,2
-eng1,Crystal Palace,West Bromwich Albion,2,0
-eng1,AFC Bournmouth,Watford,1,1
-eng1,Manchester City,Newcastle United,6,1
-eng1,Sunderland,West Ham United,2,2
-eng1,Aston Villa,Stoke City,0,1
-eng1,Norwich City,Leicester City,1,2
-esp1,Sevilla,Barcelona,2,1
-ger1,Borussia Monchengladbach,VfL Wolfsburg,2,0
-ger1,Hertha BSC,Hamburger SV,3,0
-ger1,Hannover 96,Werder Bremen,1,0
-ger1,1899 Hoffenheim,VfB Stuttgart,2,2
-ger1,Ingolstadt 04,Eintracht Frankfurt,2,0
-fra1,Lyon,Reims,1,0
-por1,Tondela,Moreirense,1,1
-por1,Paços de Ferreira,Nacional,3,1
-rus1,Zenit St. Petersburg,Rostov,3,0
-eng1,Chelsea,Southampton,1,3
-esp2,Almeria,Tenerife,2,2
-esp2,Numancia,Ponferradina,1,0
-esp2,Gimnàstic,Alcorcón,0,2
-esp2,Córdoba,Bilbao Athletic,1,0
-esp2,Zaragoza,Alavés,1,0
-esp1,Granada,Deportivo La Coruña,1,1
-esp1,Espanyol,Sporting Gijón,1,2
-esp1,Las Palmas,Eibar,0,2
-esp1,Málaga,Real Sociedad,3,1
-ita1,Carpi,Torino,2,1
-ita1,Chievo,Hellas Verona,1,1
-fra1,Angers,Bastia,1,0
-fra1,Troyes,Guingamp,0,1
-fra1,Gazelec Ajaccio,Toulouse,2,2
-por1,Académica,Marítimo,1,0
-por1,Rio Ave,Boavista,1,0
-rus1,Kuban,Anzhi Makhachkala,1,1
+eng1,Everton,Liverpool
+eng1,Arsenal,Manchester United
+eng1,Swansea City,Tottenham Hotspur
+esp1,Rayo Vallecano,Real Betis
+esp1,Athletic Bilbao,Valencia
+ger1,Schalke 04,1. FC Köln
+ger1,Bayer Leverkusen,FC Augsburg
+ger1,Bayern Munich,Borussia Dortmund
+ita1,Empoli,Sassuolo
+ita1,Palermo,Roma
+ita1,Sampdoria,Internazionale
+ita1,Udinese,Genoa
+fra1,Monaco,Rennes
+fra1,Lorient,Bordeaux
+fra1,Caen,Saint-Étienne
+por1,União da Madeira,Benfica
+rus1,Dynamo Moscow,CSKA Moscow
+rus1,Terek Grozny,Rubin Kazan
+rus1,Ufa,Krasnodar
+eng2,Charlton Athletic,Fulham
+esp2,Oviedo,Mallorca
+esp2,Leganés,Albacete
+esp2,Osasuna,Lugo
+esp2,Llagostera,Elche
+esp2,Mirandés,Girona
+ger2,Eintracht Braunschweig,FC Union Berlin
+ger2,RB Leipzig,1. FC Nürnberg
+ger2,Karlsruher SC,SC Freiburg
+esp1,Levante,Villarreal
+esp1,Atlético Madrid,Real Madrid
+ita1,Lazio,Frosinone
+ita1,Juventus,Bologna
+ita1,Fiorentina,Atalanta
+ita1,Milan,Napoli
+fra1,Paris Saint-Germain,Marseille
+por1,Braga,Arouca
+por1,Porto,Belenenses
+por1,Sporting CP,Vitória de Guimarães
+rus1,Lokomotiv Moscow,Amkar Perm
+esp2,Huesca,Valladolid
